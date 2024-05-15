@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter1", "Chapter1", "{1E9C93FA-7E76-46CD-ADE1-23714944D1E2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiniDuckSimulator", "Chapter1\MiniDuckSimulator\MiniDuckSimulator.csproj", "{DDA25E9A-8BDD-4011-82AD-9E3B6C8B31B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDA25E9A-8BDD-4011-82AD-9E3B6C8B31B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDA25E9A-8BDD-4011-82AD-9E3B6C8B31B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDA25E9A-8BDD-4011-82AD-9E3B6C8B31B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDA25E9A-8BDD-4011-82AD-9E3B6C8B31B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DDA25E9A-8BDD-4011-82AD-9E3B6C8B31B6} = {1E9C93FA-7E76-46CD-ADE1-23714944D1E2}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00C76A08-E330-40E2-9E13-8F13AC968D20}
+	EndGlobalSection
+EndGlobal
