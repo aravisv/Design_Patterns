@@ -1,0 +1,15 @@
+/Users/aravindasv/learnings/Design_Patterns/Chapter2/WeatherStation/obj/Debug/net8.0/WeatherStation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aravindasv/learnings/Design_Patterns/Chapter2/WeatherStation/obj/Debug/net8.0/WeatherStation.AssemblyInfoInputs.cache
+/Users/aravindasv/learnings/Design_Patterns/Chapter2/WeatherStation/obj/Debug/net8.0/WeatherStation.AssemblyInfo.cs
+/Users/aravindasv/learnings/Design_Patterns/Chapter2/WeatherStation/obj/Debug/net8.0/WeatherStation.csproj.CoreCompileInputs.cache
+/Users/aravindasv/learnings/Design_Patterns/Chapter2/WeatherStation/obj/Debug/net8.0/WeatherStation.sourcelink.json
+/Users/aravindasv/learnings/Design_Patterns/Chapter2/WeatherStation/bin/Debug/net8.0/WeatherStation
+/Users/aravindasv/learnings/Design_Patterns/Chapter2/WeatherStation/bin/Debug/net8.0/WeatherStation.deps.json
+/Users/aravindasv/learnings/Design_Patterns/Chapter2/WeatherStation/bin/Debug/net8.0/WeatherStation.runtimeconfig.json
+/Users/aravindasv/learnings/Design_Patterns/Chapter2/WeatherStation/bin/Debug/net8.0/WeatherStation.dll
+/Users/aravindasv/learnings/Design_Patterns/Chapter2/WeatherStation/bin/Debug/net8.0/WeatherStation.pdb
+/Users/aravindasv/learnings/Design_Patterns/Chapter2/WeatherStation/obj/Debug/net8.0/WeatherStation.dll
+/Users/aravindasv/learnings/Design_Patterns/Chapter2/WeatherStation/obj/Debug/net8.0/refint/WeatherStation.dll
+/Users/aravindasv/learnings/Design_Patterns/Chapter2/WeatherStation/obj/Debug/net8.0/WeatherStation.pdb
+/Users/aravindasv/learnings/Design_Patterns/Chapter2/WeatherStation/obj/Debug/net8.0/WeatherStation.genruntimeconfig.cache
+/Users/aravindasv/learnings/Design_Patterns/Chapter2/WeatherStation/obj/Debug/net8.0/ref/WeatherStation.dll
