@@ -1,0 +1,15 @@
+/Users/aravindasv/learnings/Design_Patterns/Chapter3/StarBuzz/obj/Debug/net8.0/StarBuzz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aravindasv/learnings/Design_Patterns/Chapter3/StarBuzz/obj/Debug/net8.0/StarBuzz.AssemblyInfoInputs.cache
+/Users/aravindasv/learnings/Design_Patterns/Chapter3/StarBuzz/obj/Debug/net8.0/StarBuzz.AssemblyInfo.cs
+/Users/aravindasv/learnings/Design_Patterns/Chapter3/StarBuzz/obj/Debug/net8.0/StarBuzz.csproj.CoreCompileInputs.cache
+/Users/aravindasv/learnings/Design_Patterns/Chapter3/StarBuzz/obj/Debug/net8.0/StarBuzz.sourcelink.json
+/Users/aravindasv/learnings/Design_Patterns/Chapter3/StarBuzz/bin/Debug/net8.0/StarBuzz
+/Users/aravindasv/learnings/Design_Patterns/Chapter3/StarBuzz/bin/Debug/net8.0/StarBuzz.deps.json
+/Users/aravindasv/learnings/Design_Patterns/Chapter3/StarBuzz/bin/Debug/net8.0/StarBuzz.runtimeconfig.json
+/Users/aravindasv/learnings/Design_Patterns/Chapter3/StarBuzz/bin/Debug/net8.0/StarBuzz.dll
+/Users/aravindasv/learnings/Design_Patterns/Chapter3/StarBuzz/bin/Debug/net8.0/StarBuzz.pdb
+/Users/aravindasv/learnings/Design_Patterns/Chapter3/StarBuzz/obj/Debug/net8.0/StarBuzz.dll
+/Users/aravindasv/learnings/Design_Patterns/Chapter3/StarBuzz/obj/Debug/net8.0/refint/StarBuzz.dll
+/Users/aravindasv/learnings/Design_Patterns/Chapter3/StarBuzz/obj/Debug/net8.0/StarBuzz.pdb
+/Users/aravindasv/learnings/Design_Patterns/Chapter3/StarBuzz/obj/Debug/net8.0/StarBuzz.genruntimeconfig.cache
+/Users/aravindasv/learnings/Design_Patterns/Chapter3/StarBuzz/obj/Debug/net8.0/ref/StarBuzz.dll
